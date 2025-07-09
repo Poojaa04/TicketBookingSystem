@@ -6,7 +6,7 @@
 using namespace std;
 
 struct Train{
-    string entityId;
+    string trainId;
     string name;
     string source;
     string destination;

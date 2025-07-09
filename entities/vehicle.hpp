@@ -18,7 +18,7 @@ struct Vehicle{
 
 inline Train convert(Vehicle vehicle){
     Train train;
-    train.entityId = vehicle.vehicleId;
+    train.trainId = vehicle.vehicleId;
     train.name = vehicle.name;
     train.source = vehicle.source;
     train.destination  = vehicle.destination;
