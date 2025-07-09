@@ -75,5 +75,5 @@ class FileIO{
      }
 };
 
-template class FileIO<Vehicles>;
+template class FileIO<Vehicle>;
 template class FileIO<Train>;
